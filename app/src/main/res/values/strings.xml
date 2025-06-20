@@ -1,0 +1,73 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ListViewApp</string>
+
+    <string name="detail_image_description">Image of selected fruit</string>
+
+    <!-- Titles and Subtitles -->
+
+    <!-- Apple -->
+    <string name="apple_title">Apple</string>
+    <string name="apple_subtitle">Red and juicy</string>
+    <string name="apple_info">Apples are a great source of fiber and vitamin C. They\'re widely loved for their crisp texture and sweet-tart flavor.</string>
+
+
+    <!-- Banana -->
+    <string name="banana_title">Banana</string>
+    <string name="banana_subtitle">Rich in potassium</string>
+    <string name="banana_info">Bananas are high in potassium, help regulate blood pressure, and provide a quick energy boost from natural sugars.</string>
+
+
+    <!-- Grapes -->
+    <string name="grapes_title">Grapes</string>
+    <string name="grapes_subtitle">Sweet and small</string>
+    <string name="grapes_info">Grapes are antioxidant-rich and come in many colors. They are used for making raisins, juice, jelly, and wine.</string>
+
+    <!-- Kiwi -->
+    <string name="kiwi_title">Kiwi</string>
+    <string name="kiwi_subtitle">Tangy green fruit with fuzzy skin</string>
+    <string name="kiwi_info">Kiwis are loaded with vitamin C and dietary fiber, and their seeds contain omega-3 fatty acids. They’re native to China.</string>
+
+    <!-- Watermelon -->
+    <string name="watermelon_title">Watermelon</string>
+    <string name="watermelon_subtitle">Juicy summer fruit with sweet red flesh</string>
+    <string name="watermelon_info">Made of over 90% water, watermelon is super hydrating and contains lycopene, an antioxidant that supports heart health.</string>
+
+    <!-- Pineapple -->
+    <string name="pineapple_title">Pineapple</string>
+    <string name="pineapple_subtitle">Tropical fruit with a spiky crown and tart sweetness</string>
+    <string name="pineapple_info">Pineapples aid digestion due to bromelain, an enzyme that breaks down protein. They’re also high in vitamin C and manganese.</string>
+
+    <!-- Strawberry -->
+    <string name="strawberry_title">Strawberry</string>
+    <string name="strawberry_subtitle">Bright red and heart-shaped with a sweet bite</string>
+    <string name="strawberry_info">Strawberries are rich in antioxidants and vitamin C. They’re commonly associated with love and springtime treats.</string>
+
+    <!-- Mango -->
+    <string name="mango_title">Mango</string>
+    <string name="mango_subtitle">Smooth, golden flesh with rich tropical flavor</string>
+    <string name="mango_info">Known as the “king of fruits,” mangoes are high in vitamin A and beta-carotene, supporting eye and skin health.</string>
+
+    <!-- Orange -->
+    <string name="orange_title">Orange</string>
+    <string name="orange_subtitle">Classic citrus fruit, sweet and full of vitamin C</string>
+    <string name="orange_info">Oranges are one of the best sources of vitamin C. They support the immune system and can help reduce inflammation.</string>
+
+    <!-- Raspberry -->
+    <string name="raspberry_title">Raspberry</string>
+    <string name="raspberry_subtitle">Tiny, velvety berries with a tart punch</string>
+    <string name="raspberry_info">Raspberries are high in fiber and vitamin C, and are often used in desserts, jams, and smoothies.</string>
+
+    <!-- Blueberry -->
+    <string name="blueberry_title">Blueberry</string>
+    <string name="blueberry_subtitle">Smooth-skinned, deep blue, and mildly sweet</string>
+    <string name="blueberry_info">Blueberries are known for their brain-boosting properties and are considered a superfood.</string>
+
+    <!-- Dragon Fruit -->
+    <string name="dragonfruit_title">Dragon Fruit</string>
+    <string name="dragonfruit_subtitle">Bright pink skin, speckled white flesh, subtly sweet</string>
+    <string name="dragonfruit_info">Dragon fruit is rich in fiber, magnesium, and antioxidants, and is known for its unique appearance and subtle sweetness.</string>
+
+    <!-- Toast/Snackbar Message -->
+    <string name="return_message">Returned from detail view!</string>
+</resources>
