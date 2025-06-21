@@ -36,10 +36,12 @@ An Android application that displays a scrollable list of fruits. Each fruit has
 
 <pre>
 app/
-├── java/com/example/fruitlist/
+├── java/com/example/listviewapp/
 │   ├── MainActivity.java
 │   ├── DetailActivity.java
+│   ├── ItemAdapter.java
 │   └── Item.java
+
 ├── res/layout/
 │   ├── activity_main.xml
 │   ├── activity_detail.xml
@@ -57,6 +59,6 @@ app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FruitListApp.git
+   git clone https://github.com/your-username/ListViewApp.git
 2. Open the project in Android Studio
 3. Build and run the app on an emulator or physical Android device
